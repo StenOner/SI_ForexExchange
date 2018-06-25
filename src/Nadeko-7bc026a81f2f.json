@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nadeko-186003",
+  "private_key_id": "7bc026a81f2fcce54e8c59c94370d2093b9e61f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCipelIWwovjX4D\nwTKtEeDOsE8WhLJBMBqhfSHchd+XqLj7APuj6B+1mTHEQaa1hQvW2FF+nyk5nfOX\nOHKe+hKUXG7ba/5Y5N4YPKHXjAEVfUQu0Aa1H+MG74KofML7UF9F26Mv0DJ4hWKz\n5PDBVd4XqsdHw4WZ+HeUB7p495M3aUulOILn5vNcbmaRTpX56LX09Z4UbbrNn3dS\nL+4NNYecoeeZ5XoV09BNY1MH0h7cb7kenqtCeap0CMFdQezxj9EsNJS2J+az3STB\nIR5dLA/4S4AjTRz27ni3CXLvvk6sIwyie+EJBzYOwJ5ujgsurEWrg+q/lhg0R/pU\nsYVVDVohAgMBAAECggEABH58FyfjfKk2sajdcG3IMz3TjvDksgC/w6A0VtELerfK\nlgOSxcEiBdUGodXEjaBwUXk8VeN/nUbG1nH/V3LbyjtRmYDUOtA8GMRYHnS7tO8h\n+qnR0vW0wq93LJZMlurDbyfgoZoUQu3rP8Lpf2toIxRGGa6xMC4ZiRQQ7CBpx26h\n3WmQCZ+24BPN4SzBXEFVJFtLJbHLjY75fM3mCiZtYw1Gr27bbDCH2wDGLNx82E3S\nAHyiZlBUbF/fWpQ1HWs5U6OMpEWIw933ZCz7CPSDWk0KDE0FOaUUM/AanIuuCPjo\nqE4MTlvO/TqT4uxTtScPPstFQ+WT9dBHl6dMlKFNDwKBgQDk6b1tZH+cxINE7bqB\nyDCjozEhdOEuX00GZTfGuoh/83WIqtWVIZUnSlBGwS4WT432gXmxwLKbB0Qcg6Ol\nPyNml6r77QAPj74R10fGNw0At42hSFRpqEcj0ItYgaRK9HyxlZpldM+oIybZxYUy\n2LhQsICO31o7DQCdub27bcr5swKBgQC15N2ggIpmAkBiaeE9Nsf3gLZBP7sedvch\n3BFpE8s7JYKM35+APnKhoeMG9JNAce1hTpHexYJYA4W/n42YKqKxGMjMGvYSjfnP\nP0drVl6J90p8V5SnJkXOklVPhHfBgrDMfoOqyWFHy3nxf5srZPKa1HCndl5tA56H\nzb5XPNRK2wKBgGUJ4qmpRUZt2r8O61ajhQyFWIc67rWoLPhYruDRrrRDQqqbNQDJ\nPOuFup8wX2ZLoQ6gIZXaxzr0XxTy6cVjc/2xji/6cR9tQ+jeC/kqjVu2qRX6NgAY\n3aWqRAdB2cGX3n4H2YlUoN/G/Dv9GgjSbbB355aocUxFNfNoa52SHZhPAoGBALKk\n2v6+AC972pxNfQhP+0mcQmQHIdIj6Uh6CSd4Z0vp5TRSlSaxLoiMpJq6Lr1Gp2vA\nbQesV/31R7ESFVDz3uGsg9niSPekNUtUzOIg66z5EVDZ+4fG0Ry3H85/Pdbyco4F\nW2+rZT3MHDIRr+aIuLVUHGh8mvTabyLV8TFg7uetAoGBANOTs16bz4cYF81GtFc+\nD3KJpMw97mHF/wZ/2xD68jHRlKkpGWsEczpJMYQUrNFXXVmI5QDh9g/azpBIrkS4\nLNSbQxZoXmgGB85ufnGaO/RqadiF2uiedYrsr328j/wY2/om9QwkqgT3DX3ytsi7\n/dBRmBNg6xnWrFPH0XVBKB0b\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-storage-service@nadeko-186003.iam.gserviceaccount.com",
+  "client_id": "102829598200813236833",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-storage-service%40nadeko-186003.iam.gserviceaccount.com"
+}
